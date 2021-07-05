@@ -80,7 +80,7 @@ for (var i=0; i < names.length; i++) {
 
 // Look up these methods on Mozilla Developer Netwok web site if needed.
 
-var firstLetter= names[i].charAt(0). tolowerCase();
+var firstLetter= names[i].charAt(0).tolowerCase();
 
 //STEP 12: (NOTHING TO DO. ALREADY DONE FOR YOU
 
